@@ -52,7 +52,7 @@ This Arduino project measures turbidity and pH levels in a liquid using a turbid
 If you encounter issues, double-check the connections, ensure libraries are installed, and refer to the datasheets for the components.
 
 ## Author
-Your Name
+Pragati Singh
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
